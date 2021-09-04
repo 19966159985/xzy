@@ -1,6 +1,6 @@
 public class xzy{
-public static void main（string [] args）{
- system.out.println（"hello yuzegou"）;
+public static void main(string [] args){
+ System.out.println("hello yuzegou");
 
 
 }
